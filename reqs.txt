@@ -1,0 +1,9 @@
+capstone
+docopt
+ElfEsteem
+pyparsing
+PyYAML
+defusedxml
+termcolor
+timeout-decorator
+angr
